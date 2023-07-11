@@ -33,7 +33,7 @@ function AboutMe() {
           <Navbar active={"aboutme"} />
           <div className="aboutMeContainer">
             <div className="avatarContainer">
-              <Avatar size="200" round={true} src={shubhankar} />
+              <Avatar size="200" round={true} src={pic} />
             </div>
             {/* <div className="nameContainer">Shubhankar</div> */}
             <div className="aboutMeText">
