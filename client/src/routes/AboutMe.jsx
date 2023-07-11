@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import "../styles/aboutme.css";
 import Navbar from "../components/Navbar";
 import Avatar from "react-avatar";
+import pic from "../helper/shubhankar.png";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
